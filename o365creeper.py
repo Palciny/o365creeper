@@ -68,5 +68,7 @@ def main():
         else:
             if valid:
                 print('%s - VALID' % email)
+
+
 if __name__ == "__main__":
     main()
