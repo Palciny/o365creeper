@@ -9,6 +9,9 @@
     with the -e parameter or a list of email addresses, one per line, with the -f parameter. 
     Additionally, the script can output valid email addressesto a file with the -o parameter.
     
+    Installing Requirements:
+    python3 -m pip install -r requirements.txt
+
     Examples:
     o365creeper.py -e test@example.com
     o365creeper.py -f emails.txt
